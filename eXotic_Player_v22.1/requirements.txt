@@ -1,0 +1,11 @@
+pillow
+python-vlc
+yt-dlp
+ytmusicapi
+supabase
+pypresence
+pynput
+pystray
+pyinstaller
+numpy
+pyaudiowpatch

@@ -1,0 +1,30 @@
+{
+ "volume": 80,
+ "muted": false,
+ "theme": "Luna Azul (XP)",
+ "visualizer": "real",
+ "sounds": true,
+ "notify": false,
+ "crossfade": 0,
+ "splash": true,
+ "audio_mode": "normal",
+ "normalize": true,
+ "hotkeys_on": true,
+ "hotkeys": {},
+ "search_history": [
+  "the legend of zelda spirit tracks soundtrack",
+  "The Legend of Zelda: Spirit Tracks Soundtrack - 1. Opening",
+  "zelda",
+  "zelda spirit tracks ost"
+ ],
+ "ytm_auth": false,
+ "update_repo": "",
+ "update_skip": "",
+ "update_last": 0,
+ "share_activity": true,
+ "lastfm_key": null,
+ "lastfm_secret": null,
+ "lastfm_user": null,
+ "lastfm_sk": null,
+ "lastfm_pend": []
+}
